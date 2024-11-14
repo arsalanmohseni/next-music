@@ -38,3 +38,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Aider ai generated files
+.aider*
+
+# Ignore local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production
